@@ -6,7 +6,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Gitmoji](https://img.shields.io/badge/Gitmoji-%F0%9F%8E%A8-FFDD67?style=for-the-badge)
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto testeee
+
+
 
 Este repositório é o projeto central da disciplina de **Big Data for Finance**. O objetivo é construir um **pipeline completo de Engenharia de Dados Financeiros**, do dado bruto até a análise, utilizando dados públicos de companhias abertas da B3, disponibilizados pela **CVM (Comissão de Valores Mobiliários)**.
 
