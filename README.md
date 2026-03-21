@@ -6,7 +6,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Gitmoji](https://img.shields.io/badge/Gitmoji-%F0%9F%8E%A8-FFDD67?style=for-the-badge)
 
-## 🎯 Objetivo do Projeto testeee
+## 🎯 Objetivo do Projeto
 
 
 
